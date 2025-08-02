@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'loading_widget.dart';
 
 class LoadingLayout extends StatelessWidget {
-  const LoadingLayout({Key? key}) : super(key: key);
+  const LoadingLayout({super.key});
 
   @override
   Widget build(BuildContext context) {

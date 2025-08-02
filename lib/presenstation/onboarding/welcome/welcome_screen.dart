@@ -10,7 +10,7 @@ import '../onboarding_coordinator.dart';
 class WelcomeScreen extends StatefulWidget {
   static const routeName = 'welcome';
 
-  const WelcomeScreen({Key? key}) : super(key: key);
+  const WelcomeScreen({super.key});
 
   @override
   State<WelcomeScreen> createState() => _WelcomeScreenState();
@@ -30,11 +30,11 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 children:  [
                   Center(
                     child: Padding(
-                      padding: EdgeInsets.only(bottom: 40, top: 20),
+                      padding: const EdgeInsets.only(bottom: 40, top: 20),
                       child: Image.asset(ImageConstants.logo),
                     ),
                   ),
-                  Positioned(
+                  const Positioned(
                     right: 10,
                     top: 10,
                     child: SwitchLanguageWidget(isShortInfo: true),
@@ -42,7 +42,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 ],
               ),
                Padding(
-                padding: EdgeInsets.only(bottom: 40),
+                padding: const EdgeInsets.only(bottom: 40),
                 child: SvgPicture.asset(ImageConstants.welcomeImage),
               ),
               ElevatedButton(
@@ -79,7 +79,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 child: ElevatedButton(
                     onPressed: _onTapLoginWithEmailOrPhone,
                     style: context.theme.elevatedButtonTheme.style?.copyWith(
-                      backgroundColor: MaterialStateProperty.all(
+                      backgroundColor: WidgetStateProperty.all(
                           context.theme.themeColor.backgroundCart),
                     ),
                     child: Text(

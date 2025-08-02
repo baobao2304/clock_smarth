@@ -14,11 +14,11 @@ class Application extends StatelessWidget {
   final String initRoute;
 
   const Application({
-    Key? key,
+    super.key,
     this.savedThemeMode,
     required this.providers,
     required this.initRoute,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {

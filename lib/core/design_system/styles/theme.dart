@@ -47,8 +47,8 @@ extension ThemeDataExt on ThemeData {
       textButtonTheme: TextButtonThemeData(
         style: ButtonStyle(
           foregroundColor:
-              MaterialStateProperty.all<Color>(dataThemeColor.textColor),
-          textStyle: MaterialStateProperty.all<TextStyle>(
+              WidgetStateProperty.all<Color>(dataThemeColor.textColor),
+          textStyle: WidgetStateProperty.all<TextStyle>(
             themeText.textButtonThemeStyle,
           ),
         ),
@@ -107,8 +107,8 @@ extension ThemeDataExt on ThemeData {
         primary: dataThemeColor.primary,
         brightness: theme,
         secondary: dataThemeColor.accent,
-        onBackground: dataThemeColor.textColor,
-      ).copyWith(background: dataThemeColor.background),
+        onSurface: dataThemeColor.textColor,
+      ).copyWith(surface: dataThemeColor.background),
     );
   }
 }

@@ -11,9 +11,9 @@ class SwitchLanguageWidget extends StatelessWidget {
   final bool isShortInfo;
 
   const SwitchLanguageWidget({
-    Key? key,
+    super.key,
     this.isShortInfo = false,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {

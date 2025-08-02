@@ -11,13 +11,13 @@ class InAppNotificationWidget extends StatelessWidget {
   final Color? colorIcon;
 
   const InAppNotificationWidget({
-    Key? key,
+    super.key,
     required this.text,
     this.textStyle,
     this.colorBackground,
     this.icon,
     this.colorIcon,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
