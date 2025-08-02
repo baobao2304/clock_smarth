@@ -9,9 +9,9 @@
     },
     {
       "name": "args",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/args-2.5.0",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/args-2.7.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "async",
@@ -63,9 +63,9 @@
     },
     {
       "name": "crypto",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/crypto-3.0.3",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/crypto-3.0.6",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "cupertino_icons",
@@ -81,19 +81,19 @@
     },
     {
       "name": "dio",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/dio-5.5.0+1",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/dio-5.8.0+1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "dio_web_adapter",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/dio_web_adapter-1.0.1",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/dio_web_adapter-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.3"
     },
     {
       "name": "equatable",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/equatable-2.0.5",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/equatable-2.0.7",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -105,13 +105,13 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/ffi-2.1.2",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/ffi-2.1.3",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
     {
       "name": "file",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/file-7.0.0",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/file-7.0.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -219,9 +219,9 @@
     },
     {
       "name": "logging",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/logging-1.2.0",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/logging-1.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "matcher",
@@ -255,27 +255,27 @@
     },
     {
       "name": "path_parsing",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/path_parsing-1.0.1",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/path_parsing-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.3"
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/path_provider-2.1.3",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/path_provider-2.1.5",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.4"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/path_provider_android-2.2.7",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/path_provider_android-2.2.10",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.0",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "path_provider_linux",
@@ -303,7 +303,7 @@
     },
     {
       "name": "platform",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/platform-3.1.5",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/platform-3.1.6",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -315,15 +315,15 @@
     },
     {
       "name": "provider",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/provider-6.1.2",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/provider-6.1.5",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "retrofit",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/retrofit-4.1.0",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/retrofit-4.5.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.19"
     },
     {
       "name": "rxdart",
@@ -333,45 +333,45 @@
     },
     {
       "name": "shared_preferences",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences-2.2.3",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences-2.3.3",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.4"
     },
     {
       "name": "shared_preferences_android",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_android-2.2.3",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_android-2.3.2",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "shared_preferences_foundation",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.4.0",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.4"
     },
     {
       "name": "shared_preferences_linux",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.3.2",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "shared_preferences_platform_interface",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_platform_interface-2.4.0",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_platform_interface-2.4.1",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "shared_preferences_web",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_web-2.3.0",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.3",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.4"
     },
     {
       "name": "shared_preferences_windows",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.3.2",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "sky_engine",
@@ -417,7 +417,7 @@
     },
     {
       "name": "top_snackbar_flutter",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/top_snackbar_flutter-3.1.0",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/top_snackbar_flutter-3.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -471,15 +471,15 @@
     },
     {
       "name": "web",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/web-0.5.1",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/web-1.1.1",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.4"
     },
     {
       "name": "xdg_directories",
-      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/xdg_directories-1.0.4",
+      "rootUri": "file:///Users/baopham/.pub-cache/hosted/pub.dev/xdg_directories-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "xml",
@@ -494,7 +494,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2025-08-02T09:19:14.762190Z",
+  "generated": "2025-08-02T09:23:27.220040Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
   "flutterRoot": "file:///Users/baopham/fvm/versions/3.22.2",
